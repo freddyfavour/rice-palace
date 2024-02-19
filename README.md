@@ -1,6 +1,4 @@
-Certainly! Here's the complete README.md file generated based on our conversation:
 
-````markdown
 # Rice Palace 🍚
 
 Welcome to Rice Palace, your go-to destination for delicious rice dishes from around the world. Whether you're craving biryani, paella, or jollof rice, we've got you covered!
