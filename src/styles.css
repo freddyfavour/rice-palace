@@ -175,7 +175,7 @@ body {
 .menu .meal-price {
   font-size: 1rem;
   margin-bottom: 5px;
-  color: #45a049; /* Green color */
+  color: var(--accent-color);
 }
 
 .menu .meal-desc {
