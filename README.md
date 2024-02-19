@@ -26,7 +26,6 @@ To install Rice Palace locally, follow these steps:
    ```bash
    git clone https://github.com/freddyfavour/rice-palace.git
    ```
-````
 
 2. Navigate to the project directory:
 
